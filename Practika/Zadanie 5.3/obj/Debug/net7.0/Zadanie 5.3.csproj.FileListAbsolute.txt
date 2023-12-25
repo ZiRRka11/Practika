@@ -1,0 +1,14 @@
+C:\Users\ZeRRo\RiderProjects\Practika\Zadanie 5.3\bin\Debug\net7.0\Zadanie 5.3.exe
+C:\Users\ZeRRo\RiderProjects\Practika\Zadanie 5.3\bin\Debug\net7.0\Zadanie 5.3.deps.json
+C:\Users\ZeRRo\RiderProjects\Practika\Zadanie 5.3\bin\Debug\net7.0\Zadanie 5.3.runtimeconfig.json
+C:\Users\ZeRRo\RiderProjects\Practika\Zadanie 5.3\bin\Debug\net7.0\Zadanie 5.3.dll
+C:\Users\ZeRRo\RiderProjects\Practika\Zadanie 5.3\bin\Debug\net7.0\Zadanie 5.3.pdb
+C:\Users\ZeRRo\RiderProjects\Practika\Zadanie 5.3\obj\Debug\net7.0\Zadanie 5.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZeRRo\RiderProjects\Practika\Zadanie 5.3\obj\Debug\net7.0\Zadanie 5.3.AssemblyInfoInputs.cache
+C:\Users\ZeRRo\RiderProjects\Practika\Zadanie 5.3\obj\Debug\net7.0\Zadanie 5.3.AssemblyInfo.cs
+C:\Users\ZeRRo\RiderProjects\Practika\Zadanie 5.3\obj\Debug\net7.0\Zadanie 5.3.csproj.CoreCompileInputs.cache
+C:\Users\ZeRRo\RiderProjects\Practika\Zadanie 5.3\obj\Debug\net7.0\Zadanie 5.3.dll
+C:\Users\ZeRRo\RiderProjects\Practika\Zadanie 5.3\obj\Debug\net7.0\refint\Zadanie 5.3.dll
+C:\Users\ZeRRo\RiderProjects\Practika\Zadanie 5.3\obj\Debug\net7.0\Zadanie 5.3.pdb
+C:\Users\ZeRRo\RiderProjects\Practika\Zadanie 5.3\obj\Debug\net7.0\Zadanie 5.3.genruntimeconfig.cache
+C:\Users\ZeRRo\RiderProjects\Practika\Zadanie 5.3\obj\Debug\net7.0\ref\Zadanie 5.3.dll

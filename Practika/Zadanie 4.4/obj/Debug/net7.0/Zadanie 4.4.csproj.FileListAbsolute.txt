@@ -1,0 +1,14 @@
+C:\Users\ZeRRo\RiderProjects\Practika\Zadanie 4.4\bin\Debug\net7.0\Zadanie 4.4.exe
+C:\Users\ZeRRo\RiderProjects\Practika\Zadanie 4.4\bin\Debug\net7.0\Zadanie 4.4.deps.json
+C:\Users\ZeRRo\RiderProjects\Practika\Zadanie 4.4\bin\Debug\net7.0\Zadanie 4.4.runtimeconfig.json
+C:\Users\ZeRRo\RiderProjects\Practika\Zadanie 4.4\bin\Debug\net7.0\Zadanie 4.4.dll
+C:\Users\ZeRRo\RiderProjects\Practika\Zadanie 4.4\bin\Debug\net7.0\Zadanie 4.4.pdb
+C:\Users\ZeRRo\RiderProjects\Practika\Zadanie 4.4\obj\Debug\net7.0\Zadanie 4.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZeRRo\RiderProjects\Practika\Zadanie 4.4\obj\Debug\net7.0\Zadanie 4.4.AssemblyInfoInputs.cache
+C:\Users\ZeRRo\RiderProjects\Practika\Zadanie 4.4\obj\Debug\net7.0\Zadanie 4.4.AssemblyInfo.cs
+C:\Users\ZeRRo\RiderProjects\Practika\Zadanie 4.4\obj\Debug\net7.0\Zadanie 4.4.csproj.CoreCompileInputs.cache
+C:\Users\ZeRRo\RiderProjects\Practika\Zadanie 4.4\obj\Debug\net7.0\Zadanie 4.4.dll
+C:\Users\ZeRRo\RiderProjects\Practika\Zadanie 4.4\obj\Debug\net7.0\refint\Zadanie 4.4.dll
+C:\Users\ZeRRo\RiderProjects\Practika\Zadanie 4.4\obj\Debug\net7.0\Zadanie 4.4.pdb
+C:\Users\ZeRRo\RiderProjects\Practika\Zadanie 4.4\obj\Debug\net7.0\Zadanie 4.4.genruntimeconfig.cache
+C:\Users\ZeRRo\RiderProjects\Practika\Zadanie 4.4\obj\Debug\net7.0\ref\Zadanie 4.4.dll
